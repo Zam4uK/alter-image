@@ -5,7 +5,7 @@ from PIL import Image as Imager
 
 import os
 from os.path import join,splitext
-path = u'/Users/denis/Downloads/maf_foto/foto.rar Folder'
+path = u''
 i = 1
 
 for f in os.listdir(path) :
